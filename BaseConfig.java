@@ -36,7 +36,7 @@ public class BaseConfig {
     /**
      * Set greeting message
      *
-     * @param baseParameter the greeting message
+     * @param baseParameter1 the greeting message
      */
     public void setBaseParameter1(String baseParameter1) {
         this.baseParameter1 = baseParameter1;
