@@ -1,4 +1,4 @@
-package org.mule.modules;
+package org.mule.modules.baseannotations;
 
 import org.mule.api.annotations.Configurable;
 import org.mule.api.annotations.param.Default;
